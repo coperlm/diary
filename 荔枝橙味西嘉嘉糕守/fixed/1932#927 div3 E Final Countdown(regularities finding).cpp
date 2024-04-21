@@ -1,3 +1,12 @@
+/*
+
+Initially I considered that this problem was related to large 
+interger calculations. However, I realized that we only needed 
+to count occurrences to arrive at the correct anser. It became 
+evident that each digit was equal to its prefix.
+
+*/
+
 #include <iostream>
 #define int long long
 
@@ -34,3 +43,9 @@ signed main(){
         solve();
     }
 }
+/*
+
+This problem is relatively straightforward. With a bit of 
+additional consideration, I was able to find the solution.
+
+*/
