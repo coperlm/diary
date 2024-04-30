@@ -16,7 +16,7 @@ print( d , x , y )
 
 the `d` is `gcd(x,y)` 
 
-accomplishment:
+Implementation:
 
 ```
 def exgcd(a, b):
